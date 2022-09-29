@@ -8,15 +8,15 @@ Ludo Game using Flutter
 ### Screenshots
 
 #### <u>Home Screen</u>
-<img width="70%" src="https://i.stack.imgur.com/TDov0.png">
+<img width="51%" src="https://i.stack.imgur.com/TDov0.png">
 
 #
 #### <u>Board 4x4 - Image1</u>
-<img width="70%" src="https://i.stack.imgur.com/aFh0W.jpg">
+<img width="51%" src="https://i.stack.imgur.com/aFh0W.jpg">
 
 #
 #### <u>Board 4x4 - Image2</u>
-<img width="70%" src="https://i.stack.imgur.com/sSE5e.jpg">
+<img width="51%" src="https://i.stack.imgur.com/sSE5e.jpg">
 
 ### TODO
 
