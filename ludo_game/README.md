@@ -2,7 +2,7 @@
 
 Ludo Game using Flutter
 - This project is under development.
-- Completed login now just need to add some animations.
+- Completed logic now just need to add some animations.
 
 
 ### Screenshots
